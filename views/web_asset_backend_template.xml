@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <template id="assets_backend" name="Dashboard assets backend" inherit_id="web.assets_backend">
+        <xpath expr="." position="inside">
+            <link rel="stylesheet" type="text/css" href="/employee_dashboard_base/static/src/css/employee_dashboard.css"/>
+            <script type="text/javascript" src="/employee_dashboard_base/static/src/js/employee_dashboard.js"></script>
+        </xpath>
+    </template>
+</odoo>

@@ -1,0 +1,11 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<templates xml:space="preserve">
+  <div t-name="employee_dashboard_base.ClientAction" class="employee-dashboard">
+    <div class="container">
+        <div class="row mt32">
+            <h1>My Employee Dashboard</h1>
+        </div>
+    </div>
+  </div>
+</templates>
+

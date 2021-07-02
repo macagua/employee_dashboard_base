@@ -1,2 +1,9 @@
 # employee_dashboard_base
-Tutorial "Odoo Javascript" from CodersFort
+Tutorial of "Odoo Javascript" from CodersFort
+
+This module is part of [Odoo Javascript](https://www.youtube.com/playlist?list=PL-70MOdlCLUtjx80KMh5hh-MIGfWQMT4n) tutorial.
+
+## My Employee Dashboard
+
+![My Employee Dashboard](./static/description/screenshoot.jpg)
+
