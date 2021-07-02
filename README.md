@@ -4,7 +4,7 @@ Tutorial of _"Odoo Javascript"_ from [CodersFort](http://www.codersfort.com/).
 
 This module is part of [Odoo Javascript](https://www.youtube.com/playlist?list=PL-70MOdlCLUtjx80KMh5hh-MIGfWQMT4n) tutorial.
 
-## My Employee Dashboard
+## Screenshot Addon
 
-![My Employee Dashboard](./static/description/screenshoot.png)
+![Screenshot Addon](./static/description/screenshot.png "Screenshot Addon")
 
