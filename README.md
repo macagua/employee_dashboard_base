@@ -5,5 +5,5 @@ This module is part of [Odoo Javascript](https://www.youtube.com/playlist?list=P
 
 ## My Employee Dashboard
 
-![My Employee Dashboard](./static/description/screenshoot.jpg)
+![My Employee Dashboard](./static/description/screenshoot.png)
 
